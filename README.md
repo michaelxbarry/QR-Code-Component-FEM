@@ -1,2 +1,2 @@
 # QR-Code-Component-Front-End-Mentor
-QR Code Component build with HTML and CSS
+QR Code Component built with HTML and CSS
